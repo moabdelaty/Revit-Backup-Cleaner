@@ -108,16 +108,6 @@ The tool uses Windows Toast Notifications for desktop alerts. These notification
 
 ---
 
-## **Screenshots**
-
-### **Command-Line Interface**
-![CLI Screenshot](./screenshots/cli-example.png)
-
-### **Notification Example**
-![Notification Example](./screenshots/notification-example.png)
-
----
-
 ## **Future Enhancements**
 
 - Add support for non-Windows platforms.
